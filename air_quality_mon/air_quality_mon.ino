@@ -52,6 +52,7 @@ void setup()
   display2.begin();
   display2.setBacklight(10);
   display2.print("HI");
+  //air sensor on A0
   airqualitysensor.init(A0);
 }
 
