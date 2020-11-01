@@ -1,0 +1,1 @@
+Pretty simple program.  Connect servo to power and the signal pin to D9 (or change the program for a different pin).  When you input an integer to the serial monitor it will try to set the servo to that position.  There is no error checking.
